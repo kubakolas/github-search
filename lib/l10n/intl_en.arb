@@ -1,0 +1,12 @@
+{
+  "ok": "ok",
+  "unknownErrorDescription": "Unknown error occured",
+  "timeoutErrorDescription": "Maximum connection time exceeded. Check your connection and try again.",
+  "serverErrorDescription": "Server error occured, try again later.",
+  "networkErrorDescription": "No connectivity detected, check Your internet connection.",
+  "clientErrorDescription": "Invalid request.",
+  "searchTextFieldHint": "Search Github repositories",
+  "searchForRepositoriesInstructionText": "Type key words to search for repositories.",
+  "noRepositoriesFound": "No repository found, try again with different query.",
+  "openIssues": "Open issues"
+}
